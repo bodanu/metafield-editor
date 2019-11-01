@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-memcached": "*",
+        "vlucas/phpdotenv": "2.6.1"
+    }
+}
